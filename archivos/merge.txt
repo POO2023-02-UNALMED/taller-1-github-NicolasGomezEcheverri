@@ -1,3 +1,5 @@
 Nicolas Gomez Echeverri
 19 años de edad
 aspiro a aprender POO para destacar y avanzar en mi vida profesional como ingeniero de sistemas
+ahora si se peude porque no esta vacia la carpeta 
+es importante tener cuidado al cambiar el mismo archivo al mismo tiempo porque podria generar conflictos que dañen el progreso hecho en cualquiera de las versiones creadas
